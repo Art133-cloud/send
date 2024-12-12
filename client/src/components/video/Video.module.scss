@@ -1,0 +1,9 @@
+.videoContainer {
+  object-fit: contain;
+  video {
+    width: 100%;
+    height: auto; 
+    display: block; 
+    background: #000 
+  }
+}
